@@ -11,4 +11,6 @@ learning new things from everywhere etc.).
 6. __Experience__ (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
 freelance projects - wherever they had the opportunity to demonstrate skills they have.
 Also it would be awesome if you add links to source code)
+7. __Education:__ BARSU (Baranovichi,Belarus), SerwiceNow training, EPAM (Minsk, Belarus)
+8. __English:__ pre-intermediate
 
