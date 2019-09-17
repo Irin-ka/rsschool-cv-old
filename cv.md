@@ -1,2 +1,2 @@
 Hello
-https://irin-ka.github.io/rsschool-cv/
+[GitHub](https://irin-ka.github.io/rsschool-cv/cv) 
