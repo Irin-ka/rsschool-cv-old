@@ -1,2 +1,2 @@
-[GitHub](https://irin-ka.github.io/rsschool-cv-html/) 
+[GitHub](https://irin-ka.github.io/rsschool-cv/) 
 
